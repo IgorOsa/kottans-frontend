@@ -55,3 +55,8 @@ Great course about Responsive Design with a lot of new information for me. Learn
 ![2. Flexbox Froggy](task_responsive_web_design/flexbox-froggy-done.png)
 
 A fun journey through Flexbox features. I learned a lot because I have not used it in my work before. Now I will.
+
+## HTML & CSS practice: Hooli-style Popup
+
+[Demo](http://igorosa.github.io/kottans-frontend/html-css-popup/index.html) |
+[Code base](https://github.com/IgorOsa/frontend-2019-p2p/tree/html-css-popup/submissions/IgorOsa/html-css-popup)
